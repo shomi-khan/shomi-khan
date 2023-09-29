@@ -1,6 +1,5 @@
 # 💫 Hello world,
-I am a tech enthusiast who loves exploring new technical challenges, watching anime, and cycling. <br>As a developer, I primarily use Python, but I also have an affinity for Golang.
-
+I am a tech enthusiast who loves exploring new technical challenges, watching anime, and cycling. <br>My primary weapon is Python, but I also have an affinity for Golang.
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shomi.khan1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shomi-khan-64b418118)
 
@@ -10,4 +9,4 @@ I am a tech enthusiast who loves exploring new technical challenges, watching an
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,ABCD&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,ABCD&layout=compact) -->
