@@ -1,4 +1,6 @@
 ### 💫 Hello world!!!!
+<img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/>
+
 I am Shomi Khan, a panda type of guy, who is passionate about programming especially on automation, Python based web app development.
 I also love eating, cycling, watching animes. My favourite anime is ''Attack on Titan".
 
