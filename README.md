@@ -7,9 +7,9 @@ I also love eating, cycling, watching animes. My favourite anime is ''Attack on 
 
 I am a lone wolf but worked as a team player in professional life. I always craving to find a team with a friendly and flexible environment where I can find mental peace and learning opportunity.<br/><br/>
 Ohhhh, that was some serious talks.<br/>
-Ok... Just chill a bit 🤘🤘🤘
+Ok... Let's just chill a bit 🤘🤘🤘
 
-I like to think about complex programming problems and implement the solutions in an open and relaxed place 😌😌.
+I love riding my bicycle by the river, thinking about complex programming problems, and then chilling out while putting all the solutions together in a relaxed place 😌😌.
 
 Feel free to reach me out at anytime to know more about me or discuss about my skillset, experience etc.
 I will try my best to respond you as quick as possible.
