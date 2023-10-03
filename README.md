@@ -5,9 +5,11 @@
 I am Shomi Khan, a panda type of guy, who is passionate about programming especially on automation, Python based web app development.
 I also love eating, cycling, watching animes. My favourite anime is ''Attack on Titan".
 
-I am a lone wolf but worked as a team player in professional life. I always craving to find a team with a friendly and flexible environment where I can find mental peace and learning opportunity. 
-Ohhhh, that was some serious talks.
+I am a lone wolf but worked as a team player in professional life. I always craving to find a team with a friendly and flexible environment where I can find mental peace and learning opportunity.<br/><br/>
+Ohhhh, that was some serious talks.<br/>
 Ok... Just chill a bit 🤘🤘🤘
+
+I like to think about complex programming problems and implement the solutions in an open and relaxed place 😌😌.
 
 Feel free to reach me out at anytime to know more about me or discuss about my skillset, experience etc.
 I will try my best to respond you as quick as possible.
