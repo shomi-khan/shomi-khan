@@ -4,7 +4,7 @@
 ### About Me
 - 💼 I'm currently working as Sr. Software Engineer.
 - 👯 I’m looking to collaborate on interesting projects.
-- 💬 I always love to make good conversation with new people. If you love programming or anime. Surely, we will have a good chat.
+- 💬 I always love to talk with new people. If you love programming or anime. Surely, we will have a good chat.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1)
 - ⚡ Fun fact: I love to chat rather than talk.
 
