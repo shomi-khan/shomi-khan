@@ -15,4 +15,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,ABCD&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,ABCD,odaktar-frontend&layout=compact)
