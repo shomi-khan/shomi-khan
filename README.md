@@ -2,7 +2,7 @@
 <img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/><br/>
 
 ### About Me
-- 💼 I'm currently working as Sr. Software Engineer.
+- 💼 I'm currently working as Full Stack Software Engineer.
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 I always love to talk with new people. If you love anime or programming, surely we will have a good chat.
 - 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1)
