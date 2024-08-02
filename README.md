@@ -16,3 +16,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,odaktar-frontend&layout=compact)
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahK994&label=Profile%20views&color=0e75b6&style=flat" alt="nahK994" /> </p>
+-->
