@@ -1,24 +1,27 @@
 ## 👋 :nerd_face: Hello
-<img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/><br/>
-
-### About Me
+<img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/>
 
 ```python
 class ShomiKhan:
     def __init__(self):
-        self.name = "Shomi Khan"
         self.role = "Full Stack Software Engineer"
         self.interests = ["Low-Level Systems", "Transfer Learning", "Web Development"]
-        self.hobbies = ["Riding Bicycle 🚴", "Programming 👨‍💻", "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
-        self.location = "Bangladesh 🇧🇩"
+        self.hobbies =  ["Programming 👨‍💻", "Riding Bicycle 🚴",
+                        "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
+        self.languages = ["bn-BD", "en-US"]
     
     def greet(self):
-        print("I love to chat 💬 rather than talk. So if you ping me with a `hi`, I'll be happy to chat with you more! 😊")
+        print('''
+            Hey there,
+            I love to chat 🗨️ rather than talk. 
+            If you ping me with a `hi`, I'll be happy to chat with you more! 😊
+        ''')
 
 me = ShomiKhan()
 me.greet()
+
 ```
-📬 Let’s Connect
+📬 Let’s Connect<br>
 Reach me through: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1)
 
 <br/>
