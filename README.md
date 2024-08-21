@@ -14,8 +14,8 @@ class ShomiKhan:
     
     def say_hello(self):
         print(f"Hello! I'm {self.name}, a {self.role} from {self.location}.")
-        print("I love working on:", ", ".join(self.interests))
-        print(f"When I'm not coding, you can find me {', '.join(self.hobbies)} .")
+        print(f"I love working on: {', '.join(self.interests)}.")
+        print(f"When I'm not coding, you can find me {', '.join(self.hobbies)}.")
         print("Feel free to explore my work on GitHub! ✨")
         print("I love to chat rather than talk. So if you ping me with a `hi`, I'll be happy to chat you more! 😊")
 
