@@ -2,11 +2,28 @@
 <img src="https://github.com/nahK994/nahK994/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/><br/>
 
 ### About Me
-- 💼 I'm currently working as Full Stack Software Engineer.
-- 👯 I’m looking to collaborate on interesting projects.
-- 💬 I always love to talk with new people. If you love anime or programming, surely we will have a good chat.
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1)
-- ⚡ Fun fact: I love to chat rather than talk.
+
+```python
+class ShomiKhan:
+    def __init__(self):
+        self.name = "Shomi Khan"
+        self.role = "Full Stack Software Engineer"
+        self.location = "Bangladesh 🇧🇩"
+        self.interests = ["Low-Level Systems", "Transfer Learning", "Web Development"]
+        self.hobbies = ["Building cool tech stuff 🛠️", "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
+    
+    def say_hello(self):
+        print(f"Hello! I'm {self.name}, a {self.role} from {self.location}.")
+        print("I love working on:", ", ".join(self.interests))
+        print(f"When I'm not coding, you can find me {', '.join(self.hobbies)} .")
+        print("Feel free to explore my work on GitHub! ✨")
+        print("I love to chat rather than talk. So if you ping me with a `hi`, I'll be happy to chat you more! 😊")
+
+me = ShomiKhan()
+me.say_hello()
+```
+
+📫 Reach me through: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1)
 
 <br/>
 
