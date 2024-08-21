@@ -32,9 +32,8 @@ Reach me through: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.s
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nahK994&theme=city_light&hide_border=false)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand,odaktar-frontend&layout=compact)
 
-<img src="https://komarev.com/ghpvc/?username=nahK994&label=Profile%20views&color=0e75b6&style=flat" alt="nahK994" />
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- <img src="https://komarev.com/ghpvc/?username=nahK994&label=Profile%20views&color=0e75b6&style=flat" alt="nahK994" /> -->
 
