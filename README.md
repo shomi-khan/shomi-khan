@@ -22,6 +22,9 @@ me.greet()
 
 ```
 
+<!-- ## Github Stats  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=nahK994&show_icons=true&count_private=true&hide_border=true" align="center" /></div> -->
+
 <!-- ### 📬 Let’s Connect
 Reach me through: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/shomi-khan-64b418118) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=flat)](https://facebook.com/shomi.khan1) -->
 <br/>
