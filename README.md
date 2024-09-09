@@ -5,7 +5,7 @@
 class ShomiKhan:
     def __init__(self):
         self.role = "Full Stack Software Engineer"
-        self.interests = ["Low-Level Systems", "Transfer Learning", "Web Development"]
+        self.interests = ["Low-Level Systems", "Machine Learning", "Web Development"]
         self.hobbies =  ["Programming 👨‍💻", "Riding Bicycle 🚴",
                         "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
         self.languages = ["bn-BD", "en-US"]
