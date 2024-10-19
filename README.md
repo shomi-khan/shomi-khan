@@ -8,7 +8,6 @@ class ShomiKhan:
         self.interests = ["Low-Level Systems", "Machine Learning", "Web Development"]
         self.hobbies =  ["Programming 👨‍💻", "Riding Bicycle 🚴",
                         "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
-        self.languages = ["bn-BD", "en-US"]
     
     def greet(self):
         print('''
