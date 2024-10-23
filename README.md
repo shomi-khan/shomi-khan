@@ -5,9 +5,16 @@
 class ShomiKhan:
     def __init__(self):
         self.role = "Software Engineer"
-        self.interests = ["Low-Level Systems", "Machine Learning", "Web Development"]
-        self.hobbies =  ["Programming 👨‍💻", "Riding Bicycle 🚴",
-                        "Munching on snacks 🍫", "Binging on anime ⛩️", "Gaming 💥"]
+        self.interests = [
+            "Low-Level Systems 🛠️",
+            "Machine Learning 🤖",
+            "Web Development 🌐"
+        ]
+        self.hobbies = [
+            "Programming 👨‍💻",
+            "Riding Bicycle 🚴",
+            "Binging on anime ⛩️",
+        ]
     
     def greet(self):
         print('''
