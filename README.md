@@ -6,19 +6,15 @@ class ShomiKhan:
     def __init__(self):
         self.role = "Software Engineer"
         self.interests = [
-            "Low-Level Systems 🛠️",
-            "Machine Learning 🤖",
-            "Web Development 🌐"
-            "Optimizing Algorithms 📈"
+            "Low-Level Systems 🛠️", "Machine Learning 🤖",
+            "Web Development 🌐", "Optimizing Algorithms 📈"
         ]
         self.languages = {
             "verbal": ["bn-BD", "en-US"],
             "programming": ["Python", "Go", "Javascript", "C++"]
         }
         self.hobbies = [
-            "Solving Tech Challenges 🧩",
-            "Riding Bicycle 🚴",
-            "Binging on Anime ⛩️"
+            "Solving Tech Challenges 🧩", "Riding Bicycle 🚴", "Binging on Anime ⛩️"
         ]
         self.technologies = {
             "frameworks": {
