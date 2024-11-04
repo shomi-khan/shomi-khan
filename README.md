@@ -24,7 +24,7 @@ class ShomiKhan:
             "databases": ["PostgreSQL", "Redis"],
             "tools": ["Docker", "Nginx", "Shell Scripting", "Linux"],
             "libraries": [
-                "Pandas", "NumPy", "BeautifulSoup", "TensorFlow", "Pydantic"
+                "Pandas", "NumPy", "BeautifulSoup", "PyTorch", "Pydantic"
             ],
             "message_queue": ["RabbitMQ"],
             "cloud": ["AWS"]
