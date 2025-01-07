@@ -18,14 +18,12 @@ class ShomiKhan:
         ]
         self.technologies = {
             "frameworks": {
-                "backend": ["Django", "DRF", "FastAPI", "Gorilla"],
+                "backend": ["Django", "DRF", "FastAPI", "Gin"],
                 "frontend": ["Angular", "React"]
             },
             "databases": ["PostgreSQL", "Redis"],
             "tools": ["Docker", "Nginx", "Shell Scripting", "Linux"],
-            "libraries": [
-                "Pandas", "NumPy", "BeautifulSoup", "Pydantic"
-            ],
+            "libraries": ["Pandas", "NumPy", "BeautifulSoup", "Pydantic"],
             "message_queue": ["RabbitMQ"],
             "cloud": ["AWS"]
         }
