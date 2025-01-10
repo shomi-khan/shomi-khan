@@ -6,8 +6,7 @@ class ShomiKhan:
     def __init__(self):
         self.role = "Software Engineer"
         self.interests = [
-            "Low-Level Systems 🛠️", "Machine Learning 🤖",
-            "Web Development 🌐", "Optimizing Algorithms 📈"
+            "Low-Level Systems 🛠️", "Web Development 🌐", "Machine Learning 🤖"
         ]
         self.languages = {
             "verbal": ["bn-BD", "en-US"],
