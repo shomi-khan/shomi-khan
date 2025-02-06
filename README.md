@@ -55,10 +55,5 @@ Reach me through: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.s
 
 <div style="display: flex; justify-content: center; align-items: center;">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nahK994&exclude_repo=V,handGestureStaffs,colorHand&layout=compact" alt="GitHub Streak" />
-<! -- <img src="https://streak-stats.demolab.com?user=nahK994" alt="GitHub Streak" /> -->
+<! -- <img src="https://streak-stats.demolab.com?user=nahK994" alt="GitHub Streak" />
 </div>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- <img src="https://komarev.com/ghpvc/?username=nahK994&label=Profile%20views&color=0e75b6&style=flat" alt="nahK994" /> -->
-
