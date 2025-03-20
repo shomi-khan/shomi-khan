@@ -1,5 +1,5 @@
 ## 👋 :nerd_face: Hello
-<img src="https://github.com/shomi-khan/shomi-khan/assets/35453959/d7e46dca-b22e-45d1-a91f-df439dca5d67" height="200" width="300"/> <br/>
+<img src="./table.jpg" height="200" width="300"/> <br/>
 
 ```python
 class ShomiKhan:
@@ -18,12 +18,12 @@ class ShomiKhan:
         self.technologies = {
             "frameworks": {
                 "backend": ["Django", "DRF", "FastAPI", "Gin"],
-                "frontend": ["Angular", "React"]
+                "frontend": ["React", "Nextjs", "Angular"]
             },
             "databases": ["PostgreSQL"],
             "message_queue": ["RabbitMQ", "Kafka"],
             "api_comm_protocols": ["REST", "gRPC"],
-            "tools": ["Redis", "Docker", "Nginx", "Shell Scripting", "Linux"],
+            "tools": ["Redis", "Docker", "Nginx", "Shell Scripting", "Linux", "TailwindCSS"],
             "libraries": ["Pandas", "BeautifulSoup", "Pydantic"],
             "cloud": ["AWS"]
         }
