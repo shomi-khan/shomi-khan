@@ -8,25 +8,16 @@ class ShomiKhan:
         self.interests = [
             "Low-Level Systems 🛠️", "Cloud-Native Development 🌐", "Machine Learning 🤖"
         ]
-        self.languages = {
-            "verbal": ["bn-BD", "en-US"],
-            "programming": ["Python", "Go", "Javascript", "C++"]
+        self.skills = {
+            "languages": ["Python", "Go", "Javascript", "C++", "Bash"],
+            "backend": ["Django", "DRF", "FastAPI", "Gin", "RabbitMQ", "Redis", "PostgreSQL", "REST", "gRPC"],
+            "frontend": ["React", "Nextjs", "Angular", "HTML", "TailwindCSS"],
+            "cloud_&_devops": ["Docker", "Nginx", "Linux", "AWS"],
+            "tools": ["VSCode", "Pycharm", "Postman"]
         }
         self.hobbies = [
-            "Solving Tech Challenges 🧩", "Riding Bicycle 🚴", "Binging on Anime ⛩️"
+            "Riding Bicycle 🚴", "Binging on Anime ⛩️", "Photography 📸"
         ]
-        self.technologies = {
-            "frameworks": {
-                "backend": ["Django", "DRF", "FastAPI", "Gin"],
-                "frontend": ["React", "Nextjs", "Angular"]
-            },
-            "databases": ["PostgreSQL"],
-            "message_queue": ["RabbitMQ", "Kafka"],
-            "api_comm_protocols": ["REST", "gRPC"],
-            "tools": ["Redis", "Docker", "Nginx", "Shell Scripting", "Linux", "TailwindCSS"],
-            "libraries": ["Pandas", "BeautifulSoup", "Pydantic"],
-            "cloud": ["AWS"]
-        }
 
     def greet(self):
         print('''
