@@ -1,5 +1,5 @@
 ## 👋 :nerd_face: Hello
-<img src="./table.jpg" height="200" width="300"/> <br/>
+<img src="asdf.jpg" height="200" width="300"/> <br/>
 
 ```python
 class ShomiKhan:
